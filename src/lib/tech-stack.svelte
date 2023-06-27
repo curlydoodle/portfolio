@@ -23,42 +23,42 @@
         <span class="text-lg md:text-xl absolute px-4 -translate-x-1/2 bg-background left-1/2">Tech Stack</span>
     </div>
     <div class="grid grid-rows-1 grid-flow-col justify-center my-4">
-        <div class="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-6 gap-5 justify-center justify-items-center text-xs md:text-sm grid-flow-row">
+        <div class="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-6 gap-6 justify-center justify-items-center text-xs md:text-sm grid-flow-row">
             <StackElements>
-                <span slot="icon"><Icon src={SiSvelte} size="18px"/></span><span slot="text">Svelte</span>
+                <span slot="icon"><Icon src={SiSvelte}/></span><span slot="text">Svelte</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiHtml5} size="18px"/></span><span slot="text">HTML</span>
+                <span slot="icon"><Icon src={SiHtml5}/></span><span slot="text">HTML</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiCss3} size="18px"/></span><span slot="text">CSS</span>
+                <span slot="icon"><Icon src={SiCss3}/></span><span slot="text">CSS</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiTailwindcss} size="18px"/></span><span slot="text">Tailwind</span>
+                <span slot="icon"><Icon src={SiTailwindcss}/></span><span slot="text">Tailwind</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiJavascript} size="18px"/></span><span slot="text">JavaScript</span>
+                <span slot="icon"><Icon src={SiJavascript}/></span><span slot="text">JavaScript</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiTypescript} size="18px"/></span><span slot="text">TypeScript</span>
+                <span slot="icon"><Icon src={SiTypescript}/></span><span slot="text">TypeScript</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={IoLogoElectron} size="18px"/></span><span slot="text">Electron</span>
+                <span slot="icon"><Icon src={IoLogoElectron}/></span><span slot="text">Electron</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiCsharp} size="18px"/></span><span slot="text">C Sharp</span>
+                <span slot="icon"><Icon src={SiCsharp}/></span><span slot="text">C Sharp</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiUnity} size="18px"/></span><span slot="text">Unity</span>
+                <span slot="icon"><Icon src={SiUnity}/></span><span slot="text">Unity</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiPython} size="18px"/></span><span slot="text">Python</span>
+                <span slot="icon"><Icon src={SiPython}/></span><span slot="text">Python</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiArduino} size="18px"/></span><span slot="text">Arduino</span>
+                <span slot="icon"><Icon src={SiArduino}/></span><span slot="text">Arduino</span>
             </StackElements>
             <StackElements>
-                <span slot="icon"><Icon src={SiRaspberrypi} size="18px"/></span><span slot="text">RPI-4</span>
+                <span slot="icon"><Icon src={SiRaspberrypi}/></span><span slot="text">RPI-4</span>
             </StackElements>
         </div>
     </div>
