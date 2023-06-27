@@ -1,7 +1,5 @@
 ## Personal Website
-Made with SvelteKit + Tailwind.
-
-Change the texts and use it for yourself.
+Simple, clean & fast portfolio website made with SvelteKit + Tailwind.
 
 Leave a star if you liked it.
 
