@@ -3,5 +3,6 @@ Simple, clean & fast portfolio website made with SvelteKit + Tailwind.
 
 Leave a star if you liked it.
 
-![Ekran Görüntüsü (505)](https://github.com/mustafaaakin/portfolio/assets/60576164/ed3abc77-3964-4a23-abc4-1480e1799cae)
+![lhtest](https://github.com/mustafaaakin/portfolio/assets/60576164/0a25a709-2d56-4643-80a7-9a4af2466564)
+
 
