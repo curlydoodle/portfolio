@@ -1,6 +1,6 @@
 ## Personal Website
 Made with SvelteKit + Tailwind.
 
-Change texts and use for yourself.
+Change the texts and use it for yourself.
 
 Leave a star if you liked it.
