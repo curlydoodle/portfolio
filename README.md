@@ -1,6 +1,18 @@
-## Personal Website
-Simple, clean & fast portfolio website made possible with SvelteKit + Tailwind.
+## Portfolio Website
 
-Leave a ⭐ if you liked it.
+Simple, clean & fast portfolio website.
 
+Made with SvelteKit + Tailwind + TSParticles.
+
+## Run It Locally
+
+Remove or change CNAME file with your domain adress then run these commands:
+
+```bash
+ npm install # or yarn
+ npm run dev # or yarn dev
+```
+
+## Something Wrong?
+Feel free to open an issue or let me know on Discord.
 
