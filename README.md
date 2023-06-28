@@ -6,7 +6,15 @@ Made with SvelteKit + Tailwind + TSParticles.
 
 ## Run It Locally
 
-Remove or change CNAME file with your domain adress then run commands down below.
+To run it locally, enter commands down below to a powershell.
+
+```bash
+ # clone this repository
+ git clone https://github.com/mustafaaakin/portfolio
+
+ # go into the repository
+ cd portfolio
+```
 
 ```bash
  npm install # or yarn
