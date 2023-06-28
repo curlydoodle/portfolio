@@ -6,7 +6,7 @@ Made with SvelteKit + Tailwind + TSParticles.
 
 ## Run It Locally
 
-Remove or change CNAME file with your domain adress then run these commands:
+Remove or change CNAME file with your domain adress then run commands down below.
 
 ```bash
  npm install # or yarn
