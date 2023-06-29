@@ -12,7 +12,7 @@ export default {
         'white': '#fff',
         'background': '#fff',
         'theme': '#b8f5ff',
-        'theme-text': '#002126'
+        'theme-text': '#0d1420'
       },
       
       boxShadow: {

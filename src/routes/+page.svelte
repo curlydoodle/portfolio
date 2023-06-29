@@ -7,7 +7,7 @@
 </script>
 
 <div>
-    <div class="flex flex-col justify-center h-screen">
+    <div class="flex flex-col h-screen justify-center">
         <Landing/>
         <Particles/>
     </div>
