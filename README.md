@@ -1,6 +1,6 @@
 ## Portfolio Website ✨
 
-Simple, clean & fast portfolio website.
+Simple, clean & fast portfolio.
 
 Made with SvelteKit + Tailwind + TSParticles.
 
