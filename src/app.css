@@ -5,12 +5,12 @@
 }
 
 *::-webkit-scrollbar {
-  	width: 13px;
+  	width: 9px;
 }
 
 
 *::-webkit-scrollbar-thumb {
-  	background-color: #b8f5ff;
+  	background-color: #c0f6f4;
 }
 
 
@@ -19,12 +19,12 @@
 
 @layer base {
     html {
-      font-family: Rajdhani, sans-serif;
+      font-family: Exo2, sans-serif;
     }
 
     @font-face {
-		font-family: 'Rajdhani';
-		src: local('Rajdhani'), local('Rajdhani'), url('/fonts/Rajdhani/Rajdhani-SemiBold.ttf');
+		font-family: 'Exo2';
+		src: local('Exo2'), local('Exo2'), url('/fonts/Exo2-Regular.ttf');
 		font-weight: normal;
 		font-display: swap;
 	}

@@ -23,7 +23,7 @@
         <span class="text-lg md:text-xl absolute px-4 -translate-x-1/2 bg-white left-1/2">Tech Stack</span>
     </div>
     <div class="grid grid-rows-1 grid-flow-col justify-center my-4">
-        <div class="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-6 gap-6 justify-center justify-items-center text-xs md:text-sm grid-flow-row">
+        <div class="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-6 gap-5 justify-center justify-items-center text-xs md:text-sm grid-flow-row">
             <StackElements>
                 <span slot="icon"><Icon src={SiSvelte}/></span><span slot="text">Svelte</span>
             </StackElements>
