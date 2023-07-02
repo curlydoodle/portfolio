@@ -11,7 +11,7 @@
         <Landing/>
         <Particles/>
     </div>
-    <div class="relative z-50 bg-background shadow-inner">
+    <div class="relative z-50 bg-white shadow-inner">
         <AboutMe/>
         <Techstack/>
         <Footer/>

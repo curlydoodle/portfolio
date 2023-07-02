@@ -10,9 +10,8 @@ export default {
         transparent: 'transparent',
         current: 'currentColor',
         'white': '#fff',
-        'background': '#fff',
         'theme': '#b8f5ff',
-        'theme-text': '#0d1420'
+        'theme-text': '#002a31'
       },
       
       boxShadow: {

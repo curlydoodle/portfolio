@@ -55,7 +55,7 @@
 				"value": 100
 			},
 			"opacity": {
-				"value": 0.4,
+				"value": 0.5,
 			},
 			"reduceDuplicates": false,
 			"shape": {
@@ -63,7 +63,7 @@
 			},
 			"size": {
 				"random": false,
-				"value": 1.25,
+				"value": 1,
 			},
 			"life": {
 				"count": 0,
