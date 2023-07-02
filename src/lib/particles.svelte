@@ -19,7 +19,7 @@
 					"enable": true,
 					"parallax": {
 						"enable": true,
-						"force": 12,
+						"force": 15,
 						"smooth": 30
 					}
 				},
@@ -55,7 +55,7 @@
 				"value": 100
 			},
 			"opacity": {
-				"value": 0.5,
+				"value": 0.3,
 			},
 			"reduceDuplicates": false,
 			"shape": {
@@ -80,7 +80,7 @@
                 "enable": true,
                 "distance": 100,
                 "color": '#000',
-                "opacity": 0.1,
+                "opacity": 0.05,
 				"frequency": 1,
                 "width": 1,
             },

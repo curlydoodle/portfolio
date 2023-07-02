@@ -7,12 +7,12 @@ export default {
         transparent: 'transparent',
         current: 'currentColor',
         'white': '#fff',
-        'theme': '#c0f6f4',
-        'theme-text': '#000'
+        'theme': '#baf6f4',
+        'theme-text': '#101920'
       },
       
       boxShadow: {
-        'inner': '0px 8px 8px',
+        'inner': '0px 10px 10px',
       },
 
       fontSize: {
