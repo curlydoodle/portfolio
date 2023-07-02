@@ -20,7 +20,7 @@
 					"parallax": {
 						"enable": true,
 						"force": 15,
-						"smooth": 30
+						"smooth": 50
 					}
 				},
 				"resize": {

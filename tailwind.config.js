@@ -6,17 +6,18 @@ export default {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
+        'gray': '#e8e8e8',
         'white': '#fff',
-        'theme': '#baf6f4',
+        'theme': '#b5f5f3',
         'theme-text': '#101920'
       },
       
       boxShadow: {
-        'inner': '0px 10px 10px',
+        'inner': '0px 6px 6px',
       },
 
       fontSize: {
-        xs: '0.75rem',
+        xs: '0.7rem',
         sm: '0.8rem',
         base: '1rem',
         lg: '1.1rem',
