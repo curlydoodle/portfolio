@@ -1,19 +1,20 @@
 <script lang="ts">
+    import AboutMe from "$lib/about-me.svelte";
+	import Footer from "$lib/footer.svelte";
     import Landing from "$lib/landing.svelte";
-    import Particles from "$lib/particles.svelte";
-	import AboutMe from "$lib/about-me.svelte";
-    import Techstack from "$lib/tech-stack.svelte";
-    import Footer from "$lib/footer.svelte";
+	import Navbar from "$lib/navbar.svelte";
+	import Particles from "$lib/particles.svelte";
+	import TechStack from "$lib/tech-stack.svelte";
 </script>
 
-<div>
-    <div class="flex flex-col bg-white h-screen justify-center">
-        <Landing/>
-        <Particles/>
-    </div>
-    <div class="relative z-50 bg-white shadow-inner">
-        <AboutMe/>
-        <Techstack/>
-        <Footer/>
-    </div>
+<div class="flex flex-col h-screen text-text">
+    <Navbar/>
+    <Landing/>
+    <Particles/>
+</div>
+
+<div class="bg-background relative z-10 border-t border-theme text-text">
+    <AboutMe/>
+    <TechStack/>
+    <Footer/>
 </div>

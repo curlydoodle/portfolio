@@ -5,12 +5,18 @@
 }
 
 *::-webkit-scrollbar {
-  	width: 10px;
+  	width: 12px;
+	background-color: #111317;
 }
 
 
 *::-webkit-scrollbar-thumb {
-  	background-color: #b5f5f3;
+  	background-color: #1b1e24;
+}
+
+body {
+	background: #111317;
+	cursor: none;
 }
 
 

@@ -6,23 +6,20 @@ export default {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        'gray': '#e8e8e8',
-        'white': '#fff',
-        'theme': '#b5f5f3',
-        'theme-text': '#101920'
-      },
-      
-      boxShadow: {
-        'inner': '0px 6px 6px',
+        'background': '#111317',
+        'text': '#9badc1',
+        'theme': '#181c22',
+        'cursor': '#6c7e93',
       },
 
       fontSize: {
-        xs: '0.7rem',
-        sm: '0.8rem',
+        xs: '0.8rem',
+        sm: '0.9rem',
         base: '1rem',
-        lg: '1.1rem',
-        xl: '1.15rem',
-        '2xl': '1.5rem',
+        lg: '1.05rem',
+        xl: '1.1rem',
+        '2xl': '1.2rem',
+        '3xl': '2.4rem',
       },
     },
   },

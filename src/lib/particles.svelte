@@ -19,8 +19,8 @@
 					"enable": true,
 					"parallax": {
 						"enable": true,
-						"force": 15,
-						"smooth": 50
+						"force": 30,
+						"smooth": 60
 					}
 				},
 				"resize": {
@@ -31,12 +31,12 @@
 		},
 		"particles": {
 			color: {
-				value: "#000",
+				value: "#fff",
 			},
 			"move": {
 				"center": {
-					"x": 20,
-					"y": 20,
+					"x": 50,
+					"y": 50,
 					"mode": "percent",
 					"radius": 0
 				},
@@ -55,11 +55,11 @@
 				"value": 100
 			},
 			"opacity": {
-				"value": 0.3,
+				"value": 0.5,
 			},
 			"reduceDuplicates": false,
 			"shape": {
-				"type": "circle"
+				"type": "square"
 			},
 			"size": {
 				"random": false,
@@ -78,8 +78,8 @@
 			},
 			"line_linked": {
                 "enable": true,
-                "distance": 100,
-                "color": '#000',
+                "distance": 150,
+                "color": '#fff',
                 "opacity": 0.05,
 				"frequency": 1,
                 "width": 1,
