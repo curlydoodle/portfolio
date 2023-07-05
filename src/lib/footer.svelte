@@ -9,7 +9,7 @@
 
 <footer class="mt-4 px-8 py-4 border-t border-theme">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
-    <div class="flex flex-row text-xs gap-1 items-center">
+    <div class="flex flex-row text-xs gap-2 items-center">
       <div>Made with</div>
       <a href="https://kit.svelte.dev" target="_blank"><Icon src={SiSvelte} color="#9badc1" size="14"/></a>
       <div>+</div>
