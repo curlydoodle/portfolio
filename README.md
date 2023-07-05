@@ -2,8 +2,6 @@
 
 Simple, clean & fast portfolio. 
 
-No errors on W3C Validation Service! 🚀
-
 Made with SvelteKit + Tailwind + TSParticles.
 
 ## Run It Locally
