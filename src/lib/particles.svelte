@@ -55,7 +55,7 @@
 				"value": 100
 			},
 			"opacity": {
-				"value": 0.5,
+				"value": 0.6,
 			},
 			"reduceDuplicates": false,
 			"shape": {
@@ -80,7 +80,7 @@
                 "enable": true,
                 "distance": 150,
                 "color": '#fff',
-                "opacity": 0.05,
+                "opacity": 0.08,
 				"frequency": 1,
                 "width": 1,
             },

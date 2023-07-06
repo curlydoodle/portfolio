@@ -9,7 +9,7 @@
 </script>
 
 <div class="flex flex-col h-full justify-center text-center items-center z-10 gap-0.5 backdrop-blur-sm">
-    <div class="text-2xl">Mustafa Akın</div>
+    <div class="text-2xl text-header">Mustafa Akın</div>
     <p class="text-xs">Front-End & Game Developer</p>
     <div class="inline-flex gap-2">
         <Button on:click={handleClick} on:keypress={handleClick}><span slot="text">About Me</span></Button>

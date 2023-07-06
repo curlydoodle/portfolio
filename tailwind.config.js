@@ -8,6 +8,7 @@ export default {
         current: 'currentColor',
         'background': '#111317',
         'text': '#9badc1',
+        'header': '#a8bace',
         'theme': '#181c22',
         'cursor': '#6c7e93',
       },

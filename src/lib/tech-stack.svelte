@@ -16,7 +16,7 @@
 
 <div class="flex flex-col h-full justify-center items-center text-left px-8 pb-14">
     <div class="items-start max-w-2xl">
-        <div class="text-2xl inline-flex items-center">Tech Stack</div>
+        <div class="text-2xl inline-flex items-center text-header">Tech Stack</div>
         <p class="text-xs py-2">I primarily utilize web technologies in my projects, although I am also interested in a wide range of other subjects. You might see me working on textures, robotics & more.</p>
         <div class="flex flex-row gap-2 flex-wrap">
             <StackItem>
