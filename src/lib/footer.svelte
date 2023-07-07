@@ -7,9 +7,9 @@
     import SiDiscord from "svelte-icons-pack/si/SiDiscord";
 </script>
 
-<footer class="mt-4 px-8 py-4 border-t border-theme">
+<footer class="border-t border-theme mt-4 px-8 py-4">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
-    <div class="flex flex-row text-xs gap-2 items-center">
+    <div class="flex flex-row text-xs items-center gap-2">
       <div>Made with</div>
       <a href="https://kit.svelte.dev" target="_blank"><Icon src={SiSvelte} color="#9badc1" size="14"/></a>
       <div>+</div>

@@ -4,7 +4,7 @@
     import SiItchdotio from "svelte-icons-pack/si/SiItchdotio";
 </script>
 
-<header class="bg-background stick top-0 px-8 py-4 border-b border-theme z-10">
+<header class="bg-background border-b border-theme stick top-0 z-10 px-8 py-4">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
         <h1>Mustafa Akın</h1>
         <div class="flex flex-row gap-3">
