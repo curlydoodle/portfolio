@@ -8,9 +8,9 @@ export default {
         current: 'currentColor',
         'background': '#111317',
         'text': '#9badc1',
-        'header': '#a8bace',
+        'header': '#aebfd2',
         'theme': '#181c22',
-        'cursor': '#6c7e93',
+        'cursor': '#aebfd2',
       },
 
       fontSize: {

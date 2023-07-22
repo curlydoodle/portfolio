@@ -17,8 +17,8 @@
 <div class="flex flex-col h-full justify-center items-center text-left px-8 pb-14">
     <div class="items-start max-w-2xl">
         <h1 class="text-2xl inline-flex items-center text-header">Tech Stack</h1>
-        <p class="text-xs py-2">I primarily utilize web technologies in my projects, although I am also interested in a wide range of other subjects. You might see me working on textures, robotics & more.</p>
-        <div class="flex flex-row gap-2 flex-wrap">
+        <p class="text-xs py-2">I primarily utilize web technologies in my projects, although I am also interested in a wide range of other subjects. You might see me working on games, textures, robotics & more.</p>
+        <div class="flex flex-row gap-2 flex-wrap pt-2">
             <StackItem>
                 <span slot="icon"><Icon src={SiSvelte} size="15" color="#cca89c"/></span><span slot="text" class="text-xs">Svelte</span>
             </StackItem>
@@ -47,7 +47,7 @@
                 <span slot="icon"><Icon src={SiArduino} size="15" color="#9fcff2"/></span><span slot="text" class="text-xs">Arduino</span>
             </StackItem>
             <StackItem>
-                <span slot="icon"><Icon src={FaBrandsRaspberryPi} size="15" color="#f4b1be"/></span><span slot="text" class="text-xs">RPI-4</span>
+                <span slot="icon"><Icon src={FaBrandsRaspberryPi} size="15" color="#f4b1be"/></span><span slot="text" class="text-xs">RPI 4</span>
             </StackItem>
         </div>
     </div>
