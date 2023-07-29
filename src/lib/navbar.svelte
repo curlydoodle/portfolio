@@ -7,7 +7,7 @@
 <header class="bg-background border-b border-theme stick top-0 z-10 px-8 py-4">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
         <h1 class="text-header">Mustafa Akın</h1>
-        <div class="flex flex-row gap-3">
+        <div class="flex flex-row gap-2">
             <a href="https://github.com/mustafaaakin" target="_blank"><Icon src={SiGithub} color="#9badc1" size="18"/></a>
             <a href="https://itch.io" target="_blank"><Icon src={SiItchdotio} color="#9badc1" size="18"/></a>
         </div>
