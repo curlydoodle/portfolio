@@ -10,6 +10,7 @@ export default {
         'text': '#97aabf',
         'header': '#b3c3d5',
         'theme': '#171c22',
+        'button': '#202932',
         'cursor': '#aebfd2',
       },
 
