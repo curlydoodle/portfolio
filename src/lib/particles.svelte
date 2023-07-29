@@ -11,7 +11,7 @@
 		},
 		"detectRetina": true,
 		"duration": 0,
-		"fpsLimit": 120,
+		"fpsLimit": 60,
 		"interactivity": {
 			"detectsOn": "window",
 			"events": {
@@ -20,7 +20,7 @@
 					"parallax": {
 						"enable": true,
 						"force": 30,
-						"smooth": 50
+						"smooth": 40
 					}
 				},
 				"resize": {
@@ -31,7 +31,7 @@
 		},
 		"particles": {
 			color: {
-				value: "#fff",
+				value: "#aebfd2",
 			},
 			"move": {
 				"center": {
@@ -52,10 +52,10 @@
 					"height": 1080
 				},
 				"limit": 0,
-				"value": 100
+				"value": 75
 			},
 			"opacity": {
-				"value": 0.6,
+				"value": 1,
 			},
 			"reduceDuplicates": false,
 			"shape": {
@@ -78,9 +78,9 @@
 			},
 			"line_linked": {
                 "enable": true,
-                "distance": 150,
-                "color": '#fff',
-                "opacity": 0.08,
+                "distance": 120,
+                "color": '#aebfd2',
+                "opacity": 0.2,
 				"frequency": 1,
                 "width": 1,
             },

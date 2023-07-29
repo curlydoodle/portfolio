@@ -7,9 +7,9 @@ export default {
         transparent: 'transparent',
         current: 'currentColor',
         'background': '#111317',
-        'text': '#9badc1',
-        'header': '#aebfd2',
-        'theme': '#181c22',
+        'text': '#97aabf',
+        'header': '#b3c3d5',
+        'theme': '#171c22',
         'cursor': '#aebfd2',
       },
 
