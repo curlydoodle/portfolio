@@ -1,4 +1,4 @@
-## Portfolio Website 💫
+## Portfolio Website
 
 Simple, clean & fast personal website. 
 
