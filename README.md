@@ -1,10 +1,10 @@
-## Portfolio Website ✨
+## Portfolio Website 💫
 
 Simple, clean & fast portfolio. 
 
 Made with SvelteKit + Tailwind + TSParticles.
 
-## Run It Locally
+## Run It Locally 🖥️
 
 To run it locally, enter commands down below to a powershell.
 
@@ -21,7 +21,7 @@ To run it locally, enter commands down below to a powershell.
 ```
 
 
-## Building & Deploying With GitHub Pages
+## Building & Deploying With GitHub Pages 🔧
 
 After you created the repository & customized it to your preferences, use commands down below to update, build & deploy your portfolio.
 
