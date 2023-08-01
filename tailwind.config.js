@@ -10,8 +10,9 @@ export default {
         'text': '#97aabf',
         'header': '#b3c3d5',
         'theme': '#171c22',
+        'logo': '#353c44',
         'button': '#202932',
-        'cursor': '#aebfd2',
+        'cursor': '#b3c3d5',
       },
 
       fontSize: {

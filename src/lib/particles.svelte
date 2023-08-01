@@ -19,8 +19,8 @@
 					"enable": true,
 					"parallax": {
 						"enable": true,
-						"force": 30,
-						"smooth": 40
+						"force": 20,
+						"smooth": 30
 					}
 				},
 				"resize": {
@@ -41,7 +41,7 @@
 					"radius": 0
 				},
 				"enable": true,
-				"speed": 0.5,
+				"speed": 0.35,
 				"straight": false,
 				"warp": false
 			},
@@ -55,11 +55,11 @@
 				"value": 75
 			},
 			"opacity": {
-				"value": 1,
+				"value": 0.75,
 			},
 			"reduceDuplicates": false,
 			"shape": {
-				"type": "square"
+				"type": "circle"
 			},
 			"size": {
 				"random": false,
@@ -76,14 +76,6 @@
 					"sync": false
 				}
 			},
-			"line_linked": {
-                "enable": true,
-                "distance": 120,
-                "color": '#aebfd2',
-                "opacity": 0.2,
-				"frequency": 1,
-                "width": 1,
-            },
 			"destroy": {
 				"split": {
 					"count": 1,
