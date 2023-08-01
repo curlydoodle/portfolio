@@ -14,12 +14,12 @@ To run it locally, enter commands down below to a powershell.
 
  # go into the repository
  cd portfolio
-```
 
-```bash
  npm install
+
  npm run dev
 ```
+
 
 ## Building & Deploying With GitHub Pages
 
