@@ -1,6 +1,6 @@
 ## Portfolio Website
 
-Simple, clean & fast personal website. 
+Personal website made with SvelteKit & Tailwind.
 
 Made with SvelteKit + Tailwind + TSParticles.
 
