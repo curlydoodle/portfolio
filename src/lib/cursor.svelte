@@ -12,8 +12,8 @@
 
 		clearTimeout(timeout);
 		timeout = setTimeout(() => {
-			opacity = 0.2;
-		}, 1000);
+			opacity = 0;
+		}, 2000);
 	}
 </script>
 

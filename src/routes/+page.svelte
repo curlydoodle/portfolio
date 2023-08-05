@@ -13,7 +13,7 @@
     <Particles/>
 </div>
 
-<div class="bg-background relative z-10 border-t border-theme text-text">
+<div class="bg-background relative z-10 text-text">
     <AboutMe/>
     <TechStack/>
     <Footer/>

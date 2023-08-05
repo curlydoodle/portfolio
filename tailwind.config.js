@@ -6,13 +6,12 @@ export default {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        'background': '#111317',
-        'text': '#97aabf',
-        'header': '#b3c3d5',
-        'theme': '#171c22',
-        'logo': '#353c44',
-        'button': '#202932',
-        'cursor': '#b3c3d5',
+        'background': '#000',
+        'text': '#d3d3da',
+        'header': '#f5f5f6',
+        'theme': '#131313',
+        'button': '#1a1a1a',
+        'cursor': '#d3d3da',
       },
 
       fontSize: {

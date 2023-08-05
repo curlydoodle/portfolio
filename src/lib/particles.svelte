@@ -19,8 +19,8 @@
 					"enable": true,
 					"parallax": {
 						"enable": true,
-						"force": 20,
-						"smooth": 30
+						"force": 40,
+						"smooth": 20
 					}
 				},
 				"resize": {
@@ -31,19 +31,19 @@
 		},
 		"particles": {
 			color: {
-				value: "#aebfd2",
+				value: "#131313",
 			},
 			"move": {
 				"center": {
-					"x": 50,
-					"y": 50,
+					"x": 0,
+					"y": 0,
 					"mode": "percent",
 					"radius": 0
 				},
 				"enable": true,
-				"speed": 0.35,
-				"straight": false,
-				"warp": false
+				"speed": 0.15,
+				"straight": true,
+				"warp": true
 			},
 			"number": {
 				"density": {
@@ -52,10 +52,10 @@
 					"height": 1080
 				},
 				"limit": 0,
-				"value": 75
+				"value": 50
 			},
 			"opacity": {
-				"value": 0.75,
+				"value": 1,
 			},
 			"reduceDuplicates": false,
 			"shape": {
@@ -63,7 +63,7 @@
 			},
 			"size": {
 				"random": false,
-				"value": 1,
+				"value": 2,
 			},
 			"life": {
 				"count": 0,
@@ -84,7 +84,7 @@
 					},
 					"rate": {
 						"value": {
-							"min": 4,
+							"min": 6,
 							"max": 9
 						}
 					},
@@ -94,7 +94,7 @@
 		},
 		"pauseOnBlur": true,
 		"pauseOnOutsideViewport": true,
-		"smooth": false,
+		"smooth": true,
 		"zLayers": 1
 	}
 

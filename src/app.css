@@ -6,16 +6,16 @@
 
 *::-webkit-scrollbar {
   	width: 12px;
-	background-color: #111317;
+	background-color: #000;
 }
 
 
 *::-webkit-scrollbar-thumb {
-  	background-color: #171c22;
+  	background-color: #131313;
 }
 
 body {
-	background: #111317;
+	background: #000;
 }
 
 
