@@ -4,10 +4,10 @@
     import FaBrandsGooglePlay from "svelte-icons-pack/fa/FaBrandsGooglePlay";
 </script>
 
-<header class="bg-background shadow-lg stick top-0 z-10 px-8 py-4">
+<header class="stick top-0 z-10 px-8 py-3 border-b border-theme bg-transparent">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
         <div class="flex flex-row items-center">
-            <img src="/images/logo.png" alt="logo" class="w-6">
+            <img src="/images/logo.png" alt="logo" class="w-8">
         </div>
         <div class="flex flex-row gap-2 justify-end">
             <a href="https://github.com/akinmustafa" target="_blank"><Icon src={SiGithub} color="#f5f5f6" size="18"/></a>

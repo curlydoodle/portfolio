@@ -8,13 +8,15 @@
 	}
 </script>
 
-<div class="flex flex-col h-full justify-center text-center items-center z-10 gap-0.5">
-    <div class="text-2xl text-header">Mustafa Akın</div>
-    <p class="text-xs">Front-End & Game Developer</p>
-    <div class="inline-flex gap-2">
-        <Button on:click={handleClick} on:keypress={handleClick}><span slot="text">About Me</span></Button>
-        <form action="https://discord.com/users/501804360079245312" target="_blank" method="get">
-            <Button><span slot="text">Contact</span></Button>
-        </form>
+<div class="flex flex-col h-full justify-center items-center text-left py-8 px-8 z-10 gap-0.5">
+    <div class="w-full max-w-2xl md:min-w-0 md:w-3/4">
+        <h1 class="text-2xl inline-flex items-center text-header">Mustafa Akın</h1>
+        <p class="text-xs py-1 leading-5">Front-End & Game Developer.</p>
+        <div class="flex flex-row flex-wrap gap-2 place-content-start">
+            <Button on:click={handleClick} on:keypress={handleClick}><span slot="text">About Me</span></Button>
+            <form action="https://discord.com/users/501804360079245312" target="_blank" method="get">
+                <Button><span slot="text">Contact</span></Button>
+            </form>
+        </div>
     </div>
 </div>

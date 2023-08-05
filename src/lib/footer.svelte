@@ -5,7 +5,7 @@
     import SiDiscord from "svelte-icons-pack/si/SiDiscord";
 </script>
 
-<footer class="px-8 py-6 mt-12">
+<footer class="px-8 py-6 mt-6 border-t border-theme">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
     <div class="flex text-xs items-center text-header">
       <div>Made with <span><a href="https://kit.svelte.dev" target="_blank">SvelteKit</a></span>.</div>

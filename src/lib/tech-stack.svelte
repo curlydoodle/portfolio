@@ -1,7 +1,7 @@
 <script>
-    import Icon from 'svelte-icons-pack/Icon.svelte';
 	import StackItem from './element.svelte';
 
+    import Icon from 'svelte-icons-pack/Icon.svelte';
     import SiSvelte from "svelte-icons-pack/si/SiSvelte";
     import SiTailwindcss from "svelte-icons-pack/si/SiTailwindcss";
     import SiJavascript from "svelte-icons-pack/si/SiJavascript";
@@ -15,31 +15,31 @@
 <div class="flex flex-col h-full justify-center items-center text-left px-8 py-8">
     <div class="w-full max-w-2xl md:min-w-0 md:w-3/4">
         <h1 class="text-2xl inline-flex items-center text-header">Tech Stack</h1>
-        <p class="text-xs py-2 leading-5">I primarily utilize web technologies in my projects, although I am also interested in a wide range of other subjects. You might see me working on games, robotics, textures & more.</p>
-        <div class="flex flex-row flex-wrap gap-2 pt-1.5 place-content-start">
+        <p class="text-xs py-2 leading-5">I primarily utilize web technologies in my projects, although I am also interested in a wide range of other subjects. You might see me working on games, robotics & more.</p>
+        <div class="flex flex-row flex-wrap gap-2.5 pt-2 place-content-start">
             <StackItem>
-                <span slot="icon"><Icon src={SiSvelte} size="16" color="#ED9875"/></span><span slot="text" class="text-xs">Svelte</span>
+                <span slot="icon"><Icon src={SiSvelte} size="18" color="#fff"/></span><span slot="text">Svelte</span>
             </StackItem>
             <StackItem>
-                <span slot="icon"><Icon src={SiTailwindcss} size="16" color="#9FD8DF"/></span><span slot="text" class="text-xs">Tailwind</span>
+                <span slot="icon"><Icon src={SiTailwindcss} size="18" color="#fff"/></span><span slot="text">Tailwind</span>
             </StackItem>
             <StackItem>
-                <span slot="icon"><Icon src={SiJavascript} size="16" color="#ECE493"/></span><span slot="text" class="text-xs">JavaScript</span>
+                <span slot="icon"><Icon src={SiJavascript} size="18" color="#fff"/></span><span slot="text">JavaScript</span>
             </StackItem>
             <StackItem>
-                <span slot="icon"><Icon src={SiTypescript} size="16" color="#98D6EA"/></span><span slot="text" class="text-xs">TypeScript</span>
+                <span slot="icon"><Icon src={SiTypescript} size="18" color="#fff"/></span><span slot="text">TypeScript</span>
             </StackItem>
             <StackItem>
-                <span slot="icon"><Icon src={IoLogoElectron} size="16" color="#BEEBE9"/></span><span slot="text" class="text-xs">Electron</span>
+                <span slot="icon"><Icon src={IoLogoElectron} size="18" color="#fff"/></span><span slot="text">Electron</span>
             </StackItem>
             <StackItem>
-                <span slot="icon"><Icon src={SiUnity} size="16" color="#ECECEC"/></span><span slot="text" class="text-xs">Unity</span>
+                <span slot="icon"><Icon src={SiUnity} size="18" color="#fff"/></span><span slot="text">Unity</span>
             </StackItem>
             <StackItem>
-                <span slot="icon"><Icon src={SiCsharp} size="16" color="#9CF196"/></span><span slot="text" class="text-xs">C Sharp</span>
+                <span slot="icon"><Icon src={SiCsharp} size="18" color="#fff"/></span><span slot="text">C Sharp</span>
             </StackItem>
             <StackItem>
-                <span slot="icon"><Icon src={SiPython} size="16" color="#A6E3E9"/></span><span slot="text" class="text-xs">Python</span>
+                <span slot="icon"><Icon src={SiPython} size="18" color="#fff"/></span><span slot="text">Python</span>
             </StackItem>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<div class="flex flex-row bg-theme justify-center items-center px-3 py-1 h-7 mt-1 rounded-full gap-2">
+<div class="flex flex-row bg-theme justify-center items-center px-3 py-2 h-8 rounded-full gap-2 text-xxs">
     <slot name="icon"></slot>
     <slot name="text"></slot>
 </div>
