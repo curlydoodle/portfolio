@@ -12,11 +12,11 @@
     import SiPython from "svelte-icons-pack/si/SiPython";
 </script>
 
-<div class="flex flex-col h-full justify-center items-center text-left px-8 py-8">
-    <div class="w-full max-w-2xl md:min-w-0 md:w-3/4">
+<div class="flex flex-col h-full justify-center items-center text-left px-8 py-10">
+    <div class="w-full max-w-[50rem] md:min-w-0 md:w-3/4">
         <h1 class="text-2xl inline-flex items-center text-header">Tech Stack</h1>
-        <p class="text-xs py-2 leading-5">I primarily utilize web technologies in my projects, although I am also interested in a wide range of other subjects. You might see me working on games, robotics & more.</p>
-        <div class="flex flex-row flex-wrap gap-2.5 pt-2 place-content-start">
+        <p class="text-xs py-2 leading-5 max-w-[40rem]">I primarily utilize web technologies in my projects, although I am also interested in a wide range of other subjects. You might see me working on games, robotics & more.</p>
+        <div class="flex flex-row flex-wrap gap-2.5 pt-3 place-content-start max-w-[40rem]">
             <StackItem>
                 <span slot="icon"><Icon src={SiSvelte} size="18" color="#fff"/></span><span slot="text">Svelte</span>
             </StackItem>

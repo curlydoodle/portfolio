@@ -1,0 +1,2 @@
+<div class="absolute top-6 right-6 bg-red-800 opacity-20 w-60 h-60 md:w-96 md:h-96 filter blur-3xl rounded-full"></div>
+<div class="absolute bottom-6 left-6 bg-blue-800 opacity-20 w-60 h-60 md:w-96 md:h-96 filter blur-3xl rounded-full"></div>

@@ -11,7 +11,7 @@ export default {
         'text': '#dddddd',
         'header': '#fff',
         'theme': '#101010',
-        'button': '#171717',
+        'button': '#151515',
         'cursor': '#dddddd',
       },
 
