@@ -6,16 +6,16 @@
 
 *::-webkit-scrollbar {
   	width: 12px;
-	background-color: #000;
+	background-color: #0e0e0e;
 }
 
 
 *::-webkit-scrollbar-thumb {
-  	background-color: #101010;
+  	background-color: #131210;
 }
 
 body {
-	background: #000;
+	background: #0e0e0e;
 }
 
 
@@ -24,12 +24,23 @@ body {
 
 @layer base {
     html {
-      font-family: Exo2, sans-serif;
+      	font-family: 'SpaceGrotesk-VariableFont_wght', sans-serif;
     }
 
+	h1 {
+		font-family: 'OoohBaby-Regular', cursive;
+	}
+
     @font-face {
-		font-family: 'Exo2';
-		src: local('Exo2'), local('Exo2'), url('/fonts/Exo2-Regular.ttf');
+		font-family: 'SpaceGrotesk-VariableFont_wght';
+		src: local('SpaceGrotesk-VariableFont_wght'), local('SpaceGrotesk-VariableFont_wght'), url('/fonts/SpaceGrotesk-VariableFont_wght.ttf');
+		font-weight: normal;
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'OoohBaby-Regular';
+		src: local('OoohBaby-Regular'), local('OoohBaby-Regular'), url('/fonts/OoohBaby-Regular.ttf');
 		font-weight: normal;
 		font-display: swap;
 	}
