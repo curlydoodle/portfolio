@@ -26,6 +26,10 @@ export default {
         '3xl': '1.75rem',
         '4xl': '2.15rem',
       },
+
+      backdropBlur: {
+        xs: '3px',
+      }
     },
   },
   plugins: [],
