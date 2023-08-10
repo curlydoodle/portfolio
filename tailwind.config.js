@@ -24,7 +24,7 @@ export default {
         xl: '1.15rem',
         '2xl': '1.2rem',
         '3xl': '1.75rem',
-        '4xl': '2.1rem',
+        '4xl': '2.15rem',
       },
     },
   },
