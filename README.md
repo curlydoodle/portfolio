@@ -48,3 +48,6 @@ After you created the repository & customized it to your preferences, use comman
 ### Something Wrong?
 Feel free to open an issue or let me know on Discord.
 
+### Supporting
+Leave a star on the repository if you want to support my work and appreciate the work put into this repository.
+

@@ -13,10 +13,10 @@
 </script>
 
 <div class="w-full px-8 py-6 place-content-center items-stretch text-left">
-    <div class="container max-w-[60rem] m-auto">
+    <div class="container max-w-[50rem] m-auto">
         <h1 class="text-3xl italic text-header">Tech Stack</h1>
-        <div class="max-w-[60rem] py-1 text-sm text-text">My current tech stack that I use to develop & make projects. It may change in the future.</div>
-        <div class="flex flex-row flex-wrap pt-3 gap-2">
+        <div class="max-w-[50rem] py-0.5 text-sm text-text">My current tech stack that I use to develop & make projects. It may change in the future.</div>
+        <div class="flex flex-row flex-wrap pt-3 gap-3 max-w-[45rem]">
             <Element><span slot="icon"><Icon src={SiSvelte} color="#dcc9ad" size="18"/></span><span slot="text">Svelte</span></Element>
             <Element><span slot="icon"><Icon src={SiTailwindcss} color="#dcc9ad" size="18"/></span><span slot="text">Tailwind</span></Element>
             <Element><span slot="icon"><Icon src={SiJavascript} color="#dcc9ad" size="18"/></span><span slot="text">Javascript</span></Element>

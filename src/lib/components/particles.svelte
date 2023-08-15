@@ -5,18 +5,18 @@
     let particlesConfig = {
         particles: {
             color: {
-                value: "#181613",
+                value: "#1d1b17",
             },
             links: {
                 enable: true,
-                color: "#181613",
+                color: "#1d1b17",
             },
             move: {
                 enable: true,
                 speed: 0.5,
             },
             number: {
-                value: 50,
+                value: 40,
             },
         },
     };

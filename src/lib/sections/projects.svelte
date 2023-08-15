@@ -11,9 +11,9 @@
 </script>
 
 <div class="w-full px-8 py-6 place-content-center items-stretch text-left wrapper" id="projects">
-    <div class="container max-w-[60rem] m-auto">
+    <div class="container max-w-[50rem] m-auto">
         <h1 class="py-2 text-3xl italic text-header">Public Projects</h1>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
             {#if repos}
             {#each repos as { link, repo, description, languageColor, language }}
             <div class="w-full p-4 items-stretch text-header bg-card rounded-lg shadow-lg transition duration-500 ease-in-out hover:shadow-black">
